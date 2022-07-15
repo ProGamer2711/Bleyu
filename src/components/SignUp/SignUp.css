@@ -7,6 +7,10 @@
 	width: 100vw;
 }
 
+form {
+	width: 35%;
+}
+
 .form-field {
 	display: flex;
 	flex-direction: column;
@@ -24,7 +28,7 @@
 	font-size: 1rem;
 }
 
-/* make everything bigger */
+/* make everything bigger and wider */
 .form-field input,
 .form-field label,
 .form-field button {
